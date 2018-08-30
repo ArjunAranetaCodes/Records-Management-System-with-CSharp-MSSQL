@@ -1,0 +1,12 @@
+C:\Users\Arjun\Documents\Visual Studio 2013\Projects\CSharpMSSQLRecordSys\CSharpMSSQLRecordSys\bin\Debug\CSharpMSSQLRecordSys.exe.config
+C:\Users\Arjun\Documents\Visual Studio 2013\Projects\CSharpMSSQLRecordSys\CSharpMSSQLRecordSys\bin\Debug\CSharpMSSQLRecordSys.exe
+C:\Users\Arjun\Documents\Visual Studio 2013\Projects\CSharpMSSQLRecordSys\CSharpMSSQLRecordSys\bin\Debug\CSharpMSSQLRecordSys.pdb
+C:\Users\Arjun\Documents\Visual Studio 2013\Projects\CSharpMSSQLRecordSys\CSharpMSSQLRecordSys\obj\Debug\CSharpMSSQLRecordSys.csprojResolveAssemblyReference.cache
+C:\Users\Arjun\Documents\Visual Studio 2013\Projects\CSharpMSSQLRecordSys\CSharpMSSQLRecordSys\obj\Debug\CSharpMSSQLRecordSys.Form1.resources
+C:\Users\Arjun\Documents\Visual Studio 2013\Projects\CSharpMSSQLRecordSys\CSharpMSSQLRecordSys\obj\Debug\CSharpMSSQLRecordSys.Properties.Resources.resources
+C:\Users\Arjun\Documents\Visual Studio 2013\Projects\CSharpMSSQLRecordSys\CSharpMSSQLRecordSys\obj\Debug\CSharpMSSQLRecordSys.csproj.GenerateResource.Cache
+C:\Users\Arjun\Documents\Visual Studio 2013\Projects\CSharpMSSQLRecordSys\CSharpMSSQLRecordSys\obj\Debug\CSharpMSSQLRecordSys.exe
+C:\Users\Arjun\Documents\Visual Studio 2013\Projects\CSharpMSSQLRecordSys\CSharpMSSQLRecordSys\obj\Debug\CSharpMSSQLRecordSys.pdb
+C:\Users\Arjun\Documents\Visual Studio 2013\Projects\CSharpMSSQLRecordSys\CSharpMSSQLRecordSys\obj\Debug\CSharpMSSQLRecordSys.Form2.resources
+C:\Users\Arjun\Documents\Visual Studio 2013\Projects\CSharpMSSQLRecordSys\CSharpMSSQLRecordSys\obj\Debug\CSharpMSSQLRecordSys.Form3.resources
+C:\Users\Arjun\Documents\Visual Studio 2013\Projects\CSharpMSSQLRecordSys\CSharpMSSQLRecordSys\obj\Debug\CSharpMSSQLRecordSys.Form4.resources
